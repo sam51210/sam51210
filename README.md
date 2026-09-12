@@ -5,4 +5,6 @@ I speak English + German / Ich spreche Englisch + Deutsch
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scratch](https://img.shields.io/badge/Scratch-%23FF6600.svg?style=for-the-badge&logo=scratch&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
-![Stripe](https://img.shields.io/badge/Stripe-%235469d4.svg?style=for-the-badge&logo=stripe&logoColor=ffffff) If you like my work and wish to help me out, you can donate to me here: https://donate.stripe.com/14A3cv4bAcwyghG53p8IU03
+![Stripe](https://img.shields.io/badge/Stripe-%235469d4.svg?style=for-the-badge&logo=stripe&logoColor=ffffff)
+
+If you like my work and wish to help me out, you can donate to me here: https://donate.stripe.com/14A3cv4bAcwyghG53p8IU03
